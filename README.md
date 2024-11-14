@@ -28,7 +28,7 @@ npm i
 Clone o repositório do projeto em sua máquina usando o comando:
 
 ```
-git clone https://github.com/seu-usuario/orangehrm-automation.git
+git clone https://github.com/CiCi0100/challengeCypress.git
 ```
 
 #### | Passo 2: Configurações para rodar o projeto 
